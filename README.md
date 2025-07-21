@@ -10,7 +10,7 @@ Last Updated: Unknown (
 dates range roughly from 2006–2017)
 Size: 1795 rows, 9 columns
 
-Tableau Link: 
+Tableau Link: https://public.tableau.com/app/profile/rodeesha.simmonds/viz/CacaoRatings/Intro?publish=yes
 
 Key findings
 
